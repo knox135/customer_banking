@@ -1,9 +1,10 @@
 # customer_banking
-## python challenge 2
+ python challenge 2
 
 # Requirements
 Python
-## Usage
+
+# Usage
 - download package
 - run customer_banking.py
 - input prompt answers as numbers
