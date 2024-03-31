@@ -1,6 +1,8 @@
 # customer_banking
  python challenge 2  
+   
  A simple application to practice importing classes.  
+   
  It takes in from the user under a "savings" title account:
 - initial balance
 - interest rate
