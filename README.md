@@ -4,8 +4,10 @@
  It takes in from the user:
 - initial balance
 - interest rate
-- how many months to calculate
+- how many months to calculate  
+
 It outputs:  
+
 - the interest earned
 - the updated balance adding the interest earned to the initial balance inputted
 ## Requirements
