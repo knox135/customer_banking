@@ -1,7 +1,13 @@
 # customer_banking
  python challenge 2  
- A simple application to practice importing classes which takes in the user inputs for initial balance, interest rate and amount of months. Then it returns the interest earned and updated balance. 
- 
+ A simple application to practice importing classes.  
+ It takes in from the user:
+- initial balance
+- interest rate
+- how many months to calculate
+It outputs:  
+- the interest earned
+- the updated balance adding the interest earned to the initial balance inputted
 ## Requirements
 Python
 
